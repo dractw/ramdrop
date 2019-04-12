@@ -8,3 +8,4 @@ make script executive:
 run as superuser
 `sudo ./run.sh`
 
+Drops cached memory (debian/ubuntu)
